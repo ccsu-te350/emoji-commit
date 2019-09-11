@@ -92,5 +92,5 @@ The following is a brief list of open-source projects currently using these emoj
 - https://github.com/cribspot/emoji-utils
 
 ## Credits
-
+from the original repo at https://hackernoon.com/understanding-git-fcffd87c15a3 via article - https://hackernoon.com/understanding-git-fcffd87c15a3 
 Developed along with my co-workers at [Cribspot](https://www.cribspot.com/). Inspired in part by style guides from [slashsBin](https://github.com/slashsBin/styleguide-git-commit-message#suggested-emojis) and [atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages).
